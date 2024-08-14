@@ -52,4 +52,18 @@ Before running the tests, ensure you have the following installed:
 - `runner` : Contains test runner class
   - `TestRunner.java`: cumcumber test run code there (feature file path and glue)
 
- 
+### .feature file
+<img width="529" alt="image" src="https://github.com/user-attachments/assets/b5ac5f8a-ce13-4b2e-8199-be96d916d86d">
+
+### SearchPage.jave
+<img width="534" alt="image" src="https://github.com/user-attachments/assets/994de7a7-c221-4d96-8cbd-9ba2aa0a816d">
+
+### StepDefinition
+<img width="605" alt="image" src="https://github.com/user-attachments/assets/82ee9a07-e27e-4fb3-b108-5493244f2930">
+
+### TestRunner.java
+<img width="478" alt="image" src="https://github.com/user-attachments/assets/3c25e5ff-1c80-4ab6-9ef3-95cdcd0a6143">
+
+
+## Test Case result:
+- All test case **Passed**
